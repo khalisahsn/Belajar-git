@@ -1,1 +1,2 @@
 ini adalah percobaan 1 menggunakan git
+kami sedang latihan menggukan git hub
